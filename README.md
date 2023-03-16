@@ -1,21 +1,21 @@
 # 通用后台管理
 
-## Project setup
+## 项目安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译并启动开发服务器
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译并压缩代码用于生产环境
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 检查并修复代码
 ```
 npm run lint
 ```
